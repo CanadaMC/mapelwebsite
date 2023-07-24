@@ -15,8 +15,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #4d4d4d;
-  background: #fff;
+  color: #ffffff;
+  background: #943636;
 }
 
 #page {
@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #bf52ff;
+  color: #74b6e2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #bf52ff;
+  color: #74b6e2;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #bf52ff;
+  background: #74b6e2;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #bf52ff;
+  background: #74b6e2;
 }
 
 ::selection {
   color: #fff;
-  background: #bf52ff;
+  background: #74b6e2;
 }
 
 #fh5co-header,
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #bf52ff;
+  background: #74b6e2;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #bf52ff !important;
+  color: #74b6e2 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #bf52ff;
+  background: #74b6e2;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #bf52ff;
+  color: #74b6e2;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #bf52ff;
+  background: #74b6e2;
 }
 
 .fh5co-heading {
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #bf52ff;
+  background-color: #74b6e2;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -801,7 +801,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #bf52ff;
+  color: #74b6e2;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1111,7 +1111,7 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #bf52ff;
+  background: #74b6e2;
   color: #fff;
   border: 2px solid #0084ff;
 }
@@ -1121,11 +1121,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #bf52ff;
-  border: 2px solid #bf52ff;
+  color: #74b6e2;
+  border: 2px solid #74b6e2;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #bf52ff;
+  background: #74b6e2;
   color: #fff;
 }
 
@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #bf52ff;
+  border-color: #74b6e2;
 }
 
 .row-pb-md {
